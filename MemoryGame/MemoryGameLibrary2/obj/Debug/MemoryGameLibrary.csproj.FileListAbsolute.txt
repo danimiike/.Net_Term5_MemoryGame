@@ -1,0 +1,12 @@
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameLibrary2\bin\Debug\MemoryGameLibrary2.dll
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameLibrary2\bin\Debug\MemoryGameLibrary2.pdb
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary.csproj.CoreCompileInputs.cache
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary2.dll
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary2.pdb
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary.csproj.AssemblyReference.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameLibrary2\bin\Debug\MemoryGameLibrary2.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameLibrary2\bin\Debug\MemoryGameLibrary2.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary.csprojAssemblyReference.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary2.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameLibrary2\obj\Debug\MemoryGameLibrary2.pdb

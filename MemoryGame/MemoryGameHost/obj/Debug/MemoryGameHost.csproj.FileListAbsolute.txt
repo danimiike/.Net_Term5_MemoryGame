@@ -1,0 +1,14 @@
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\bin\Debug\MemoryGameHost.exe.config
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\bin\Debug\MemoryGameHost.exe
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\bin\Debug\MemoryGameHost.pdb
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\bin\Debug\MemoryGameLibrary2.dll
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\bin\Debug\MemoryGameLibrary2.pdb
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.csproj.AssemblyReference.cache
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.csproj.CoreCompileInputs.cache
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.csproj.CopyComplete
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.exe
+D:\College\5 term\INFO 5060 - DOT NET\project 2\MemoryGameGui\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.csprojAssemblyReference.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.exe
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project2\FINAL PROJECT\GUI (1)\GUI\MemoryGameHost\obj\Debug\MemoryGameHost.pdb

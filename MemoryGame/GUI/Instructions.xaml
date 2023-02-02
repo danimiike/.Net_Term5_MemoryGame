@@ -1,0 +1,22 @@
+﻿<!--
+    Class name: Instructions.xaml
+    Authors:    Danielle Miike, Priscilla Peron, Renato Medeiros
+    Date:       April/7/2022
+-->
+<Window x:Class="GUI.Instructions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Instructions" Height="450" Width="450">
+    <Grid Background="#EAEDED" Margin="0,0,2,0">
+        <TextBox HorizontalAlignment="Left" Background="#EAEDED" FontSize="16" FontWeight="Bold" Height="35" Margin="21,47,0,0" TextWrapping="Wrap" Text="-> This game can be played by up to 4 players." VerticalAlignment="Top" Width="361"/>
+        <TextBox HorizontalAlignment="Left" Background="#EAEDED" FontSize="16" FontWeight="Bold" Height="55" Margin="21,87,0,0" TextWrapping="Wrap" Text="-> A marker will be displayed beside your name when it's your turn." VerticalAlignment="Top" Width="361"/>
+        <TextBox HorizontalAlignment="Left" Background="#EAEDED" FontSize="16" FontWeight="Bold" Height="129" Margin="21,147,0,0" TextWrapping="Wrap" Text="-> When your turn comes, fill the guess boxes with a card number on each guess and submit. You will then be able to visualize the contents and earn one point every time you pick two identical cards." VerticalAlignment="Top" Width="361"/>
+        <TextBox HorizontalAlignment="Left" Background="#EAEDED" FontSize="16" FontWeight="Bold" Height="129" Margin="21,290,0,0" TextWrapping="Wrap" Text="-> All players that join the game must play until the end. If one of the players leave the game before the end, it will be game over for everyone." VerticalAlignment="Top" Width="361"/>
+
+
+    </Grid>
+</Window>
